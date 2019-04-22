@@ -1,0 +1,238 @@
+# script.audio.profiles language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: addon.xml
+msgctxt "Addon Summary"
+msgid "Save audio profile and easily switch between them"
+msgstr "Desa perfils d'àudio i els commuta fàcilment"
+
+#: addon.xml
+msgctxt "Addon Description"
+msgid "To map a key for switch audio profile edit keymap xml file and add:[CR]RunScript(script.audio.profiles,0) - for switch profile in loop[CR]RunScript(script.audio.profiles,x) - where x is number of profile"
+msgstr "Per definir una tecla per canviar el perfil d'àudio editeu el fitxer keymap.xml i afegiu:[CR]RunScript(script.audio.profiles,0) - per commutar perfils en bucle[CR]RunScript(script.audio.profiles,x) - on x és el número de perfil"
+
+#: Settings
+msgctxt "#32000"
+msgid "Profiles"
+msgstr "Perfils"
+
+#: Settings
+msgctxt "#32001"
+msgid "Name of profile 1"
+msgstr "Nom del perfil 1"
+
+#: Settings
+msgctxt "#32013"
+msgid "Includes Settings"
+msgstr "Inclou Configuració"
+
+#: Settings
+msgctxt "#32014"
+msgid "Automatic Switch"
+msgstr "Canvi automàtic"
+
+#: Settings
+msgctxt "#32015"
+msgid "Show audio stream select menu on start playing"
+msgstr "Mostra el menú de selecció del flux d'àudio quan s'inicia la reproducció"
+
+#: Settings
+msgctxt "#32016"
+msgid "Auto close select menu"
+msgstr "Tanca automàticament el menú de selecció"
+
+#: Settings
+msgctxt "#32019"
+msgid "Notifications"
+msgstr "Avisos"
+
+#: Settings
+msgctxt "#32002"
+msgid "Settings"
+msgstr "Configuració"
+
+#: Settings
+msgctxt "#32003"
+msgid "Name of profile 2"
+msgstr "Nom del perfil 2"
+
+#: Settings
+msgctxt "#32004"
+msgid "Include volume level"
+msgstr "Inclou nivell del volum"
+
+#: Settings
+msgctxt "#32011"
+msgid "Include player settings"
+msgstr "Inclou configuració de reproducció"
+
+#: Settings
+msgctxt "#32012"
+msgid "Include video settings"
+msgstr "Inclou configuració del vídeo"
+
+#: Settings
+msgctxt "#32005"
+msgid "Name of profile 3"
+msgstr "Nom del perfil 3"
+
+#: Settings
+msgctxt "#32006"
+msgid "Name of profile 4"
+msgstr "Nom del perfil 4"
+
+#: Settings
+msgctxt "#32007"
+msgid "Profile 1"
+msgstr "Perfil 1"
+
+#: Settings
+msgctxt "#32008"
+msgid "Profile 2"
+msgstr "Perfil 2"
+
+#: Settings
+msgctxt "#32009"
+msgid "Profile 3"
+msgstr "Perfil 3"
+
+#: Settings
+msgctxt "#32010"
+msgid "Profile 4"
+msgstr "Perfil 4"
+
+#: Settings
+msgctxt "#32021"
+msgid "Profile for GUI"
+msgstr "Perfil per GUI"
+
+#: Settings
+msgctxt "#32022"
+msgid "Profile for Movies"
+msgstr "Perfil per Pel·lícules"
+
+#: Settings
+msgctxt "#32023"
+msgid "Profile for TVShows"
+msgstr "Perfil per programes de TV"
+
+#: Settings
+msgctxt "#32024"
+msgid "Profile for PVR TV"
+msgstr "Perfil per PVR TV"
+
+#: Settings
+msgctxt "#32025"
+msgid "Profile for Music"
+msgstr "Perfil per Música"
+
+#: Settings
+msgctxt "#32026"
+msgid "None"
+msgstr "Cap"
+
+#: Settings
+msgctxt "#32027"
+msgid "Send HDMI-CEC command when profile activated"
+msgstr "Envia comandament HDMI-CEC quan s'activa un perfil"
+
+#: Settings
+msgctxt "#32028"
+msgid "Wake Up"
+msgstr "Desperta"
+
+#: Settings
+msgctxt "#32029"
+msgid "StandBy"
+msgstr "StandBy"
+
+#: Settings
+msgctxt "#32030"
+msgid "Toggle state"
+msgstr "Commuta estat"
+
+#: Settings
+msgctxt "#32031"
+msgid "Profile for Videos (not from library)"
+msgstr "Perfil per vídeos (no des de la biblioteca)"
+
+#: Settings
+msgctxt "#32032"
+msgid "Profile for Music Videos"
+msgstr "Perfil per Vídeos Musicals"
+
+#: Settings
+msgctxt "#32033"
+msgid "Profile for Unknown content type"
+msgstr "Perfil per contingut desconegut"
+
+#: Settings
+msgctxt "#32034"
+msgid "Profile for PVR Radio"
+msgstr "Perfil per PVR Ràdio"
+
+#: Settings
+msgctxt "#32035"
+msgid "Video"
+msgstr "Vídeo"
+
+#: Settings
+msgctxt "#32036"
+msgid "Audio"
+msgstr "Àudio"
+
+#: Settings
+msgctxt "#32037"
+msgid "Other"
+msgstr "Altres"
+
+#: Settings
+msgctxt "#32038"
+msgid "Profile for KODI Start/Wakeup (Default)"
+msgstr "Perfil per l'inici del KODI (Per defecte)"
+
+#: Script
+msgctxt "#32100"
+msgid "Select profile to save settings"
+msgstr "Seleccioneu perfil per desar la configuració"
+
+#: Script
+msgctxt "#32106"
+msgid "Select audio profile"
+msgstr "Seleccioneu perfil d'àudio"
+
+#: Script
+msgctxt "#32103"
+msgid "This profile is disabled"
+msgstr "Aquest perfil està desactivat"
+
+#: Script
+msgctxt "#32104"
+msgid "Invalid file for profile"
+msgstr "Fitxer invàlid per a perfil"
+
+#: Script
+msgctxt "#32105"
+msgid "Enable profiles"
+msgstr "Activa perfils"
+
+#: Script
+msgctxt "#32101"
+msgid "Configure profile"
+msgstr "Configura perfils"
+
+#: Script
+msgctxt "#32102"
+msgid "Saved as profile"
+msgstr "Desa com a perfil"
